@@ -40,4 +40,5 @@ const garry ={
 // method borowing
 garry.calcAge=jonas.calcAge;
 
+//this will point on garry object
 garry.calcAge()
