@@ -23,10 +23,12 @@ calcAgeArrow(1996)
 const jonas = {
     year:1991,
     calcAge: function(){
-        //this will point to the parent object
-        //which is jonas Object
         console.log(this);
+        console.log(2037- this.year);
     },
 }
 
+// this will pointing to the object calling it's method
+//in this case we call the method on jonas object
+//tht's why this will point on jonas object
 jonas.calcAge();
