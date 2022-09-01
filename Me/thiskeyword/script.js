@@ -32,3 +32,12 @@ const jonas = {
 //in this case we call the method on jonas object
 //tht's why this will point on jonas object
 jonas.calcAge();
+
+const garry ={
+    year:1998
+};
+
+// method borowing
+garry.calcAge=jonas.calcAge;
+
+garry.calcAge()
