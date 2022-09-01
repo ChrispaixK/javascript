@@ -19,3 +19,14 @@ const calcAgeArrow= (birthYear)=> {
 }
 
 calcAgeArrow(1996)
+
+const jonas = {
+    year:1991,
+    calcAge: function(){
+        //this will point to the parent object
+        //which is jonas Object
+        console.log(this);
+    },
+}
+
+jonas.calcAge();
