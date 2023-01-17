@@ -1,6 +1,7 @@
-# JavaScript Course
+# JavaScript basics
 
-> This a simple repo for learning purpose that contain lessons from a Udemy Course by Jonas Schmedtmann
+> Someone once said :`" Dont immitate understand !"`
+> This a simple repo for learning purpose that contain a javascript lesson from a Udemy Course by Jonas Schmedtmann , [link to the course](https://www.udemy.com/course/the-complete-javascript-course/)
 
 
 ## 🤝 Contributing
