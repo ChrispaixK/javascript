@@ -137,7 +137,8 @@ Absolutely! Arrays are a fundamental data structure in JavaScript, and mastering
 
    const hasNumbersGreaterThan35 = numbers.some((num) => num > 35);
 
-   console.log(hasNumbersGreaterThan35); // Output: true```
+   console.log(hasNumbersGreaterThan35); // Output: true
+   ```
 
    - `every()`: Tests whether all elements in the array pass the test implemented by the provided function.
    ```javascript
