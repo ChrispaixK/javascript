@@ -18,7 +18,6 @@
 - Arrow functions
 - Template literals
 - Destructuring assignment
-- let and const
 - Classes and modules
 - Spread and rest operators
 
