@@ -45,15 +45,6 @@
 - Build tools (Webpack, Babel)
 - Task runners (Gulp, Grunt)
 
-## Frameworks and Libraries
-- Understanding and working with popular libraries like jQuery
-- Familiarity with front-end frameworks (React, Angular, Vue)
-
-## Node.js
-- Server-side JavaScript
-- npm (Node Package Manager)
-- Express.js (or other web frameworks)
-
 ## RESTful APIs
 - Creating and consuming APIs
 - Fetching data from APIs
