@@ -1,4 +1,6 @@
-The Geolocation API is a web API that allows browsers to provide information about the user's geographical location. It enables web applications to access the device's location (if permission is granted) and provides latitude, longitude, and sometimes altitude, speed, and heading information. Here's an overview of how to use the Geolocation API in JavaScript:
+# Javascript Geolocation API
+
+> The Geolocation API is a web API that allows browsers to provide information about the user's geographical location. It enables web applications to access the device's location (if permission is granted) and provides latitude, longitude, and sometimes altitude, speed, and heading information. Here's an overview of how to use the Geolocation API in JavaScript:
 
 ### 1. **Check Geolocation Support:**
 
