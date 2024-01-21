@@ -1,3 +1,5 @@
+# Javascript Web Workers
+
 Web Workers are a powerful feature in JavaScript that enable parallel execution of code in the background, separate from the main browser thread. This allows for better performance and responsiveness in web applications, especially when dealing with computationally intensive tasks. Let's dive into the key concepts and usage of Web Workers.
 
 ## What are Web Workers?
